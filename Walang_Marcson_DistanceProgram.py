@@ -11,3 +11,5 @@ d = math.sqrt(math.pow(x2-x1,2)+math.pow(y2-y1,2))
 
 # This part gives the answer
 print(f"The distance between the two points is: {d:.2f}")
+
+# Example: You enter 5 as the value for x1 and y1, and 10 as the value for x2 and y2, it gives you the answer rounded to the second decimal place which is 7.07.
