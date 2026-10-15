@@ -1,16 +1,16 @@
-student_info = str(input("Enter student name: "))
-
 def display_header():
     print("Student Evaluator Project")
+display_header()
+student_info = str(input("Enter student name: "))
 
 def get_student_info():
 
-    student_info = str(input("Enter student name: "))
+    b = 67 #This is useless dont mind it
 assessment1 = int(input("Enter assesment 1: "))
 assessment2 = int(input("Enter assesment 2: "))
 assessment3 = int(input("Enter assesment 3: "))
 def evaluate_performance():
-    averageassessment = (assessment1 + assessment2 + assessment3)/3
+   b1 = 76 #This is also useless don't mind it
 
 averageassessment = (assessment1 + assessment2 + assessment3) / 3
 
